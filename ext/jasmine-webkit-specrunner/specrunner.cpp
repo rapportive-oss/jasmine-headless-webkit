@@ -21,6 +21,7 @@
  THE SOFTWARE.
  */
 
+#include <getopt.h>
 #include <QtGui>
 #include <QtWebKit>
 #include <QFile>
